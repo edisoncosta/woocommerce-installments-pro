@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Installments PRO
 Plugin URI: https://github.com/edisoncosta/woocommerceinstallmentspro
-Description: Adiciona ao preço do produto e carrinho opções de parcelamento.
+Description: Adiciona ao preco do produto e carrinho opcoes de parcelamento.
 Version: 1.0.0
 Author: Edison Costa
 Author URI: http://www.lojaplus.com.br
@@ -104,7 +104,7 @@ class Woocommerce_Installments_Pro {
 	 * @return void
 	 */
 	private function admin_includes() {
-	
+            include_once 'includes/admin/class-wc-wip-settings.php';	    
 	}
 
 	/**

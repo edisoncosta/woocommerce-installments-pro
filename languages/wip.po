@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Installments PRO\n"
-"POT-Creation-Date: 2014-11-23 01:43-0300\n"
-"PO-Revision-Date: 2014-11-23 01:44-0300\n"
+"POT-Creation-Date: 2014-11-23 11:55-0300\n"
+"PO-Revision-Date: 2014-11-23 11:55-0300\n"
 "Last-Translator: \n"
-"Language-Team: Edison Costa\n"
-"Language: pt_BR\n"
+"Language-Team: Edison Costa <edisoncosta@lojaplus.com.br>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,79 +17,67 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: cart-tab.php:43
-#, fuzzy
-msgid "Cart Tab"
-msgstr "Aba Carrinho"
-
-#: cart-tab.php:48
-#, fuzzy
-msgid "Cart Widget"
-msgstr "Exibir o Widget do Carrinho"
-
-#: cart-tab.php:49
-#, fuzzy
-msgid "Display the cart widget on hover"
-msgstr "Exibir os detalhes do Carrinho"
-
-#: cart-tab.php:54
-#, fuzzy
-msgid "Widget Scroll"
-msgstr "Exibição automática do Widget"
-
-#: cart-tab.php:55
-#, fuzzy
-msgid "Display the cart widget on Scroll"
-msgstr "Exibir o Widget automático"
-
-#: cart-tab.php:60
-#, fuzzy
-msgid "Hide Empty Cart"
-msgstr "Esconder carrinho vazio"
-
-#: cart-tab.php:61
-#, fuzzy
-msgid "Hide the cart tab if the cart is empty"
-msgstr "Esconder se o carrinho estiver vazio"
-
-#: cart-tab.php:66
-#, fuzzy
-msgid "Use the light or dark skin"
-msgstr "Tema da Aba"
-
-#: cart-tab.php:70
-#, fuzzy
-msgid "Light"
-msgstr "Claro"
-
-#: cart-tab.php:71
-#, fuzzy
-msgid "Dark"
-msgstr "Escuro"
-
-#: cart-tab.php:75
-#, fuzzy
-msgid "Position the cart tab on the right or left"
-msgstr "Posição da Aba do Carrinho"
-
-#: cart-tab.php:79
-#, fuzzy
-msgid "Right"
-msgstr "direita"
-
-#: cart-tab.php:80
-#, fuzzy
-msgid "Left"
-msgstr "esquerda"
-
-#: cart-tab.php:205
-#, fuzzy
-msgid "View your shopping cart"
-msgstr "Ver seu Carrinho"
-
-#: cart-tab.php:208
+#: woocommerce-installments-pro.php:116
 #, php-format
-msgid "%d item"
-msgid_plural "%d items"
-msgstr[0] ""
-msgstr[1] ""
+msgid "WooCommerce Installments Pro depends on %s to work!"
+msgstr ""
+
+#: woocommerce-installments-pro.php:116
+msgid "WooCommerce"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Cart Tab"
+#~ msgstr "Aba Carrinho"
+
+#, fuzzy
+#~ msgid "Cart Widget"
+#~ msgstr "Exibir o Widget do Carrinho"
+
+#, fuzzy
+#~ msgid "Display the cart widget on hover"
+#~ msgstr "Exibir os detalhes do Carrinho"
+
+#, fuzzy
+#~ msgid "Widget Scroll"
+#~ msgstr "Exibição automática do Widget"
+
+#, fuzzy
+#~ msgid "Display the cart widget on Scroll"
+#~ msgstr "Exibir o Widget automático"
+
+#, fuzzy
+#~ msgid "Hide Empty Cart"
+#~ msgstr "Esconder carrinho vazio"
+
+#, fuzzy
+#~ msgid "Hide the cart tab if the cart is empty"
+#~ msgstr "Esconder se o carrinho estiver vazio"
+
+#, fuzzy
+#~ msgid "Use the light or dark skin"
+#~ msgstr "Tema da Aba"
+
+#, fuzzy
+#~ msgid "Light"
+#~ msgstr "Claro"
+
+#, fuzzy
+#~ msgid "Dark"
+#~ msgstr "Escuro"
+
+#, fuzzy
+#~ msgid "Position the cart tab on the right or left"
+#~ msgstr "Posição da Aba do Carrinho"
+
+#, fuzzy
+#~ msgid "Right"
+#~ msgstr "direita"
+
+#, fuzzy
+#~ msgid "Left"
+#~ msgstr "esquerda"
+
+#, fuzzy
+#~ msgid "View your shopping cart"
+#~ msgstr "Ver seu Carrinho"
