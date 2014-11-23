@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Installments PRO\n"
-"POT-Creation-Date: 2014-11-23 11:55-0300\n"
-"PO-Revision-Date: 2014-11-23 11:55-0300\n"
+"POT-Creation-Date: 2014-11-23 13:10-0300\n"
+"PO-Revision-Date: 2014-11-23 13:10-0300\n"
 "Last-Translator: \n"
 "Language-Team: Edison Costa <edisoncosta@lojaplus.com.br>\n"
 "Language: en_US\n"
@@ -16,6 +16,23 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-wc-wip-settings.php:26
+#: includes/admin/class-wc-wip-settings.php:27
+msgid "Installments"
+msgstr ""
+
+#: includes/admin/class-wc-wip-settings.php:47
+msgid "Installment of the display options:"
+msgstr ""
+
+#: includes/admin/class-wc-wip-settings.php:54
+msgid "Displays Product Price?"
+msgstr ""
+
+#: includes/admin/class-wc-wip-settings.php:61
+msgid "If checked the parcels will be displayed in the product price."
+msgstr ""
 
 #: woocommerce-installments-pro.php:116
 #, php-format

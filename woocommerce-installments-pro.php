@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: WooCommerce Installments PRO
-Plugin URI: https://github.com/edisoncosta/woocommerceinstallmentspro
-Description: Adiciona ao preço do produto e carrinho opções de parcelamento.
+Plugin URI: https://github.com/edisoncosta/woocommerce-installments-pro
+Description: Adiciona ao preÃ§o do produto e carrinho opÃ§Ãµes de parcelamento.
 Version: 1.0.0
 Author: Edison Costa
 Author URI: http://www.lojaplus.com.br
@@ -11,6 +11,7 @@ License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 Domain Path: /languages
 */
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }

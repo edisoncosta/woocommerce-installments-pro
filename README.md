@@ -1,4 +1,4 @@
 woocommerce-installments-pro
 ============================
 
-Adiciona ao preço do produto e carrinho opções de parcelamento.
+Adiciona ao preÃ§o do produto e carrinho opÃ§Ãµes de parcelamento.
